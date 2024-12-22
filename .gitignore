@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# dotenv environment files
+.env
+
+# Docker-related files
+.docker/
+*.dockerignore
+
+# Build directories
+dist/
+build/
+
+
